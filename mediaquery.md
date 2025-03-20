@@ -10,7 +10,7 @@ In Flutter, **MediaQuery** provides information about the **device's screen size
 - You can access `MediaQuery` using `MediaQuery.of(context)`.  
 
 ---
-
+s
 ## ✅ **Example:**
 ```dart
 class MyWidget extends StatelessWidget {
