@@ -1,3 +1,5 @@
+# What are Global Keys ?
+
 In Flutter, **GlobalKeys** are used to uniquely identify widgets across the entire widget tree, not just within a specific parent. They allow widgets to:
 
 ✅ Access the state of a widget from anywhere in the app.  

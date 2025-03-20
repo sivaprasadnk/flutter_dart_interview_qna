@@ -1,3 +1,5 @@
+# What is difference between static, final and const ?
+
 In Flutter (and Dart), `static`, `final`, and `const` are used to define how variables and properties are stored and accessed. They have different purposes related to memory allocation, value assignment, and immutability.
 
 ---

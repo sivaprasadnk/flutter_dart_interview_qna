@@ -1,3 +1,5 @@
+# Explain SOLID principles
+
 The **SOLID principles** are five design principles that help create more maintainable, scalable, and testable code. These principles, originally defined for object-oriented programming, apply well to Flutter development because Flutter uses Dart, which is an object-oriented language.
 
 ### ✅ **S – Single Responsibility Principle (SRP)**

@@ -1,3 +1,5 @@
+# What is BuildContext in Flutter ?
+
 In Flutter, **BuildContext** is a handle to the location of a widget in the **widget tree**. It allows widgets to:  
 ✅ Access the **position** of a widget in the tree.  
 ✅ Communicate with parent widgets.  
