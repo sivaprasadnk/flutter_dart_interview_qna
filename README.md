@@ -22,7 +22,7 @@
 ## 🚀 How to Use  
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/flutter-dart-interview-questions.git
+git clone https://github.com/sivaprasadnk/flutter_dart_interview_qna.git
 ```
 2. Explore the questions and answers.  
 3. Practice regularly to strengthen your knowledge.  
