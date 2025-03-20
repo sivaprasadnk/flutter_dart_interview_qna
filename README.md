@@ -1,4 +1,4 @@
-```markdown  
+
 # Flutter & Dart Interview Questions  
 
 📝 A comprehensive collection of **Flutter** and **Dart** interview questions and answers to help you prepare for your next Flutter developer interview. Covers core concepts, state management, widgets, async programming, package integration, performance optimization, and more.  
@@ -34,5 +34,4 @@ Contributions are welcome! Feel free to submit a pull request or raise an issue.
 
 ---
 
-## ⭐️ If you find this helpful, don’t forget to star the repo!  
-```
+## ⭐️ If you find this helpful, don’t forget to star the repo!
