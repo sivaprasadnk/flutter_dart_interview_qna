@@ -99,6 +99,7 @@ class RazorpayPayment extends Payment {
 
 ### ✅ **L – Liskov Substitution Principle (LSP)**
 > *Derived classes must be substitutable for their base classes without altering program correctness.*
+Subtypes must be substitutable for their base types.
 
 ### 🔹 In Flutter:
 - Subclasses should work as a drop-in replacement for their parent class without breaking functionality.
@@ -188,6 +189,7 @@ class Robot implements Workable {
 
 ### ✅ **D – Dependency Inversion Principle (DIP)**
 > *Depend on abstractions, not on concrete implementations.*
+High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
 ### 🔹 In Flutter:
 - Use **dependency injection** and **service locators**.
